@@ -12,3 +12,5 @@ This repository contains the code for our robot in the 2025-2026 Vex Robotics se
 - A 1D motion profile for accelerating, crusing at a maximum velocity, and then decelerating to the final velocity.
 - A 2D motion profile that generates a trajectory from a Cubic Bezier curve, finds the velocities at each point, and compensates for centripetal force while turning.
 - Other driver code for controlling the chassis and other subsystems.
+
+There is also a [visualizer](https://github.com/Github11200/Robot-Data-Visualization) to accompany this template which allows you to visualiize Odometry and PID data.
