@@ -1,4 +1,4 @@
-# Autonomous Motions Template
+# Motion Control Framework
 
 This repository contains the code for our robot in the 2025-2026 Vex Robotics season Push Back.
 
