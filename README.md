@@ -2,6 +2,10 @@
 
 This repository contains the code for our robot in the 2025-2026 Vex Robotics season Push Back.
 
+<p align="center">
+  <img src="vids/Autonomous Routine.gif" alt="Autonomous routine demo" width="800" />
+</p>
+
 ## Features
 - Position tracking via Odometry.
 - Driving to points on a coordinate system while using a sigmoid function to maintain heading as it approaches the target.
